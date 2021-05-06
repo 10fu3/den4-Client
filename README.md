@@ -17,6 +17,11 @@ Reduxなどの複数コンポーネントにまたがる状態管理をするラ
 # スクショ
 <img width="1044" alt="スクリーンショット 2021-05-07 4 25 13" src="https://user-images.githubusercontent.com/31952653/117354387-39ca3480-aeec-11eb-876b-b5f2fbfd30b9.png">
 
+# 反省点
+- CSSをコンポーネントにベタ書きしている
+  => CSSファイルに分けるなどする
+- もう少しコンポーネント化したほうがいい(?)
+
 
 # Getting Started with Create React App
 
