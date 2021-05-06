@@ -1,3 +1,23 @@
+# DiscordっぽいUIを持つなにか
+https://10fu3.github.io/den4-Client/
+
+# 構成技術
+React(SPA構築用) + Material-UI(CSSコンポーネント) + react-virtuoso(仮想的なスクロールを提供)
+
+# アピールポイント
+- Vue => React
+- 3分割画面 (Material-UI Gridの活用)
+- 3分割別のスクロール機能の提供
+- Function Componentのみ使用、Reactの拡張Classを使わない
+- Hooksの活用 (左スライドバーとタイトルバーの同期)
+
+#次に向けて
+Reduxなどの複数コンポーネントにまたがる状態管理をするライブラリを活用していきたい
+
+# スクショ
+<img width="1044" alt="スクリーンショット 2021-05-07 4 25 13" src="https://user-images.githubusercontent.com/31952653/117354387-39ca3480-aeec-11eb-876b-b5f2fbfd30b9.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
