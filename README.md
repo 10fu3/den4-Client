@@ -5,6 +5,7 @@ https://10fu3.github.io/den4-Client/
 React(SPA構築用) + Material-UI(CSSコンポーネント) + react-virtuoso(仮想的なスクロールを提供)
 
 # アピールポイント
+- コピペはなし、ライブラリの活用以外は全部スクラッチ
 - Vue => React
 - 3分割画面 (Material-UI Gridの活用)
 - 3分割別のスクロール機能の提供
